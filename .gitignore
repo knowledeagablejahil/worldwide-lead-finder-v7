@@ -1,0 +1,13 @@
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.sqlite3
+*.sqlite
+*.db
+partner_leads_live.xlsx
+partner_leads_live.csv
