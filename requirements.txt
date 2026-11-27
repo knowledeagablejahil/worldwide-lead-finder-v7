@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+phonenumbers>=8.13,<10
+dnspython>=2.6,<3
